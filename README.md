@@ -1,0 +1,2 @@
+# bashlulz
+bash reboot prank
